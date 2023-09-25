@@ -1,0 +1,28 @@
+body{
+	background-color:darkgrey;
+}
+
+p{
+	color:coral;
+	font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-size: 14px;
+}
+
+h1{
+	color:gold;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size:16px;
+}
+
+.aquaParagraph{
+	color:aqua;
+	font-family:'Courier New', Courier, monospace;
+	font-size:14px;
+}
+
+#Par1{
+	color:blueviolet;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 20px;
+}
+
